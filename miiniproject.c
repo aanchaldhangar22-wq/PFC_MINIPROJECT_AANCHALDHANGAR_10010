@@ -18,7 +18,6 @@ case 1:
 printNumbers();
 break;
 case 2:
-printEven();
 break;
 case 3:
 printOdd();
